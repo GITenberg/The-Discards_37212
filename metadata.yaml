@@ -1,0 +1,30 @@
+_repo: The-Discards_37212
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37212-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McWhorter, Lucullus Virgil
+    aliases:
+    - Old Wolf
+    - McWhorter, L. V. (Lucullus Virgil)
+    birthdate: 1860
+    deathdate: 1944
+    gutenberg_agent_id: '38705'
+    url: http://www.gutenberg.org/2009/agents/38705
+description: ''
+gutenberg_issued: '2011-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Washington (State)'
+- !lcsh 'Yakama Indians -- Government relations'
+- !lcc 'E011'
+title: The Discards
+url: http://www.gutenberg.org/ebooks/37212
